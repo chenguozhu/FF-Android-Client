@@ -34,6 +34,7 @@ public class Main extends Activity
                         Log.e("##########tag3","msg");
                         Log.e("##########tag4","msg");
                         Log.e("##########tag5","msg");
+                        Log.e("##########tag6","msg");
                         mWebView.loadUrl("javascript:ware()");
                     }
                 });
